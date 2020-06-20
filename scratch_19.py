@@ -1,4 +1,5 @@
 print('*****ROCK MASS RATING SYSTEM CALCULATOR*****')
+# Taking input
 a1 = input('Enter Uniaxial Compressive Strength(MPa) = ')
 a = int(a1)
 if a > 250:
